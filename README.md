@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Sou apaixonado por tecnologia e comecei minha jornada com um curso técnico integrado ao ensino médio em Desenvolvimento de Software, que me deu base prática desde cedo. Gosto especialmente do back-end. Sigo me aprofundando em boas práticas de desenvolvimento, organização de código e construção de soluções eficientes — sempre buscando evoluir como profissional e estar alinhado com as demandas do mercado.
+Software Developer with a technical degree in Systems for Internet and experience in critical IT environments. I build fullstack applications and APIs using Java, Spring Boot, TypeScript, NestJS, React, Android Studio and databases. Award-winning academic projects focused on real-world problems, such as Ecoexplora and Velo. Always improving and learning.
 
 
 <div> 
@@ -19,14 +19,16 @@ Sou apaixonado por tecnologia e comecei minha jornada com um curso técnico inte
 <div width="100%" height="100px">
 <img align="left" alt="Java" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="30px"  align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="30px"  align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img height="30px"  align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img height="30px"  align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img height="30px"  align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height="30px"  align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="30px"  align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img height="30px"  align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img height="30px"  align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img height="30px"  align="left" alt="Nestjs" title="Nestjs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img height="30px"  align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height="30px"  align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="30px"  align="left" alt="AndroidStudio" title="AndroidStudio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<img height="30px"  align="left" alt="MySql" title="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img height="30px"  align="left" alt="MongoDb" title="MongoDb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img height="30px"  align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img height="30px"  align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="30px"  align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
@@ -35,7 +37,7 @@ Sou apaixonado por tecnologia e comecei minha jornada com um curso técnico inte
 <br/>
 <br/>
 <div style="width:100%">
-  Java | SpringBoot | Docker | Maven | MongoDB | JavaScript | React | NextJS | PHP | Tailwind | HTML | CSS 
+  Java | SpringBoot | Maven | React | NextJs | NestJs | TypeScript | JavaScript | AndroidStudio | Mysql | MongoDB | Docker | HTML | CSS 
 </div>
 </div>
 
