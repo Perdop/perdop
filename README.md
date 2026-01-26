@@ -6,7 +6,7 @@ Software Developer with a technical degree in Systems for Internet and experienc
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/pedro951/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devpedrosantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@operdop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dev_perdop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@operdop" target="_blank"><img src="https://img.shields.io/badge/-Tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
